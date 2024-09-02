@@ -7,6 +7,6 @@ namespace pruebaotra.Models.Domain
 {
     public class Pasinte
     {
-        
+       public int a; 
     }
 }
