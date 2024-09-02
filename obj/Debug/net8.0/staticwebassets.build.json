@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "3nZPsxxr3hnzwcbwSLf8iI6sKUaFoDKSDAeUMnqBCTc=",
+  "Source": "pruebaotra",
+  "BasePath": "_content/pruebaotra",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "pruebaotra\\wwwroot",
+      "Source": "pruebaotra",
+      "ContentRoot": "C:\\Users\\audel\\Downloads\\New folder\\Ultimo\\pruebaotra\\wwwroot\\",
+      "BasePath": "_content/pruebaotra",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
