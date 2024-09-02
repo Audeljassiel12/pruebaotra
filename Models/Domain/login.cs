@@ -7,6 +7,8 @@ namespace pruebaotra.Models.Domain
 {
     public class login
     {
-        
+        public int ad ; 
+        public int nd; 
+        public int n ;  
     }
 }
