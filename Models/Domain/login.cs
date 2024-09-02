@@ -9,6 +9,7 @@ namespace pruebaotra.Models.Domain
     {
         public int ad ; 
         public int nd; 
-        public int n ;  
+        public int n ; 
+        public decimal ndds;  
     }
 }
